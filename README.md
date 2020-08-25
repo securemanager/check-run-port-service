@@ -11,3 +11,8 @@ install and use :
 5. Check the syslog file for the first time to make sure the script is working correctly.
 
 
+## Donate
+
+Want to keep this project going? Please donate generously [https://www.buymeacoffee.com/securemanager](https://www.buymeacoffee.com/securemanager)
+
+[![Build](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/securemanager)
